@@ -1,2 +1,3 @@
 # Basic-FootBall_Management
- football management using PHP and MYSQL CRUD
+This is my first mini homework in PHP
+ Football management using PHP and MYSQL CRUD

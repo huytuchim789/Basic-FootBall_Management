@@ -1,0 +1,17 @@
+table{
+    border: 1px black solid;
+    width: 60%;
+}
+edit,edit{
+    color: blue;
+}
+tr,th{
+    border: 1px solid;
+}
+td{
+    border: 1px solid;
+    text-align: center;
+}
+#button{
+    text-align: center;
+}
